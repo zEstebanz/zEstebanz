@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi, I'm Esteban Oller! 👋
 
-<!--
-**zEstebanz/zEstebanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Technician specializing in web development with diverse experience across various areas including databases, 2D game development in Unity, Linux system administration via virtual machines, and utilization of tools like Docker. My hardware knowledge also allows me to effectively maintain hardware infrastructures.
 
-Here are some ideas to get you started:
+I strive to stay updated and acquire new skills. Currently, I'm keen on delving deeper into the realm of cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills:
+
+- **Languages**: JavaScript, TypeScript, Java, C#
+- **Frontend**: React.js, Next.js, Vite.js, HTML & CSS, Tailwind CSS, SASS
+- **UI Frameworks**: MaterialUI, Swipper, ShadcnUI
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB, MySQL
+- **Version Control & Tools**: GitHub, Docker
+- **Operating Systems**: Linux, Windows
+- **Other**: Unity, Vercel, Netlify
+
+#### Currently Learning:
+
+- Jest, React Testing Library
+- Astro, Nest
+- SpringBoot, Angular
+- Cybersecurity
+
+#### Reach Me:
+
+- **Website**: [esteban-oller.vercel.app](https://esteban-oller.vercel.app/)
+- **Personal Blog**: [diario-mk.vercel.app](https://diario-mk.vercel.app/)
+
+Feel free to connect and collaborate!
