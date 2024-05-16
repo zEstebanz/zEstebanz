@@ -26,5 +26,8 @@ I strive to stay updated and acquire new skills. Currently, I'm keen on delving 
 
 - **Website**: [esteban-oller.vercel.app](https://esteban-oller.vercel.app/)
 - **Personal Blog**: [diario-mk.vercel.app](https://diario-mk.vercel.app/)
+- **Email**: estebanoller88@gmail.com
+- **Phone**: +54 2612528276
+- **LinkedIn**: [Esteban Oller](https://www.linkedin.com/in/esteban-oller-2b7a5a153/)
 
 Feel free to connect and collaborate!
