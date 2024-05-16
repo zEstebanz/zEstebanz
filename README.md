@@ -8,6 +8,9 @@ I'm a Software Technician specializing in web development with diverse experienc
 
 I strive to stay updated and acquire new skills. Currently, I'm keen on delving deeper into the realm of cybersecurity.
 
+- **Website**: [esteban-oller.vercel.app](https://esteban-oller.vercel.app/)
+- **Personal Blog**: [diario-mk.vercel.app](https://diario-mk.vercel.app/)
+  
 #### Skills:
 
 - **Languages**: JavaScript, TypeScript, Java, C#
@@ -27,9 +30,6 @@ I strive to stay updated and acquire new skills. Currently, I'm keen on delving 
 - Cybersecurity
 
 #### Reach Me:
-
-- **Website**: [esteban-oller.vercel.app](https://esteban-oller.vercel.app/)
-- **Personal Blog**: [diario-mk.vercel.app](https://diario-mk.vercel.app/)
 - **Email**: estebanoller88@gmail.com
 - **LinkedIn**: [Esteban Oller](https://www.linkedin.com/in/esteban-oller-2b7a5a153/)
 
