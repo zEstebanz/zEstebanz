@@ -1,7 +1,6 @@
 
 <h1 align="center">
    Hi, I'm Esteban Oller! 👋
-   <a href="https://diario-mk.vercel.app/" style="display:inline-block; background-color:#4CAF50; color:white; padding:10px 20px; text-align:center; text-decoration:none; border-radius:5px;">Visit My Personal Blog</a>
 </h1>
 
 
