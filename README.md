@@ -1,10 +1,9 @@
 
 <h1 align="center">
    Hi, I'm Esteban Oller! 👋
+   <a href="https://diario-mk.vercel.app/" style="display:inline-block; background-color:#4CAF50; color:white; padding:10px 20px; text-align:center; text-decoration:none; border-radius:5px;">Visit My Personal Blog</a>
 </h1>
-<div style="text-align:center;">
-  <a href="https://diario-mk.vercel.app/" style="display:inline-block; background-color:#4CAF50; color:white; padding:10px 20px; text-align:center; text-decoration:none; border-radius:5px;">Visit My Personal Blog</a>
-</div>
+
 
 I'm a Software Technician specializing in web development with diverse experience across various areas including databases, 2D game development in Unity, Linux system administration via virtual machines, and utilization of tools like Docker. My hardware knowledge also allows me to effectively maintain hardware infrastructures.
 
