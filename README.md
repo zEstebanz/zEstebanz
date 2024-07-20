@@ -13,10 +13,10 @@ I strive to stay updated and acquire new skills. Currently, I'm keen on delving 
   
 #### Skills:
 
-- **Languages**: JavaScript, TypeScript, Java, C#
-- **Frontend**: React.js, Next.js, Vite.js, HTML & CSS, Tailwind CSS, SASS
-- **UI Frameworks**: MaterialUI, Swipper, ShadcnUI
-- **Backend**: Node.js, Express.js
+- **Languages**: JavaScript, TypeScript.
+- **Frontend**: React.js, Next.js, HTML & CSS, Tailwind CSS, SASS
+- **UI Frameworks**: MaterialUI, ShadcnUI
+- **Backend**: Node.js, Express.js, PHP
 - **Databases**: MongoDB, MySQL
 - **Version Control & Tools**: GitHub, Docker
 - **Operating Systems**: Linux, Windows
@@ -26,7 +26,6 @@ I strive to stay updated and acquire new skills. Currently, I'm keen on delving 
 
 - Jest, React Testing Library
 - Astro, Nest
-- SpringBoot, Angular
 - Cybersecurity
 
 #### Reach Me:
